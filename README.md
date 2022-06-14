@@ -14,3 +14,4 @@ Add your idea below and submit it to the repo
 - Snake: Create a snake game.
 - Tetris: Create a tetris game.
 - Minesweeper: Create a minesweeper game.
+- Snile: Create a Snail on wall game.
