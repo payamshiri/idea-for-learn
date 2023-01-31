@@ -16,3 +16,6 @@ Add your idea below and submit it to the repo
 - Minesweeper: Create a minesweeper game.
 - Snile: Create a Snail on wall game.
 - And more...
+
+
+#### How to add new
