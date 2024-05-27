@@ -15,7 +15,7 @@ Add your idea below and submit it to the repo
 - Tetris: Create a tetris game.
 - Minesweeper: Create a minesweeper game.
 - Snile: Create a Snail on wall game.
-- And more...
+- chatbot
 
 
 #### How to add new
