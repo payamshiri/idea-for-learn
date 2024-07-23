@@ -17,6 +17,7 @@ Add your idea below and submit it to the repo
 - Snile: Create a Snail on wall game.
 - chatbot
 - rag-based chatbot
+- ...
 
 
 #### How to add new
