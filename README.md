@@ -19,5 +19,10 @@ Add your idea below and submit it to the repo
 - rag-based chatbot
 - ...
 
+## Steps to Contribute
 
-#### How to add new
+1. Fork the repository.
+2. Clone your forked repo.
+3. Add your idea or step to the README.md file.
+4. Commit your changes.
+5. Create a pull request.
